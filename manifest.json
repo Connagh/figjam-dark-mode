@@ -1,0 +1,8 @@
+{
+  "name": "Free FigJam Dark Mode",
+  "id": "1422254968842682323",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": ["figjam"],
+  "documentAccess": "dynamic-page"
+}

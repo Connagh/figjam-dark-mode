@@ -1,0 +1,13 @@
+{
+  "name": "figjam-dark-mode",
+  "version": "1.0.0",
+  "description": "FigJam Dark Mode Figma plugin",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "watch": "tsc -p tsconfig.json --watch"
+  },
+  "devDependencies": {
+    "@figma/plugin-typings": "*",
+    "typescript": "*"
+  }
+}

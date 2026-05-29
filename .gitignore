@@ -7,13 +7,9 @@ node_modules/
 dist/
 out/
 
-# Figma plugin files
+# Figma plugin build output (compiled from code.ts)
 code.js
 *.code.js
-*.json
-
-# Manifest.json
-manifest.json
 
 # Ignore package-lock.json to avoid lock-in of dependencies
 package-lock.json
