@@ -121,10 +121,10 @@ if (figma.editorType === 'figjam') {
     for (const overlay of overlays) {
       overlay.remove();
     }
-    figma.closePlugin('Dark mode off. Run again to turn on.');
+    figma.closePlugin('Dark mode off. To change this, run the plugin again.');
   } else {
     addOverlay(page);
-    figma.closePlugin('Dark mode on. Run again to turn off.');
+    figma.closePlugin('Dark mode on. To change this, run the plugin again.');
   }
 } else {
   figma.closePlugin();
