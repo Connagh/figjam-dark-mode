@@ -15,14 +15,6 @@ The overlay is locked so you can work on top of it without accidentally selectin
 
 If any of your content appears behind the dark mode overlay, right-click it and select **Bring to front**. This can happen with content that was added before the plugin was run, or content that was manually moved to the back.
 
-## Removal
-
-Running the plugin again is the easiest way to remove the overlay. Alternatively, you can:
-
-- **Undo** immediately after applying (`Cmd+Z` / `Ctrl+Z`)
-- **Unlock and delete** the dark background rectangle in the layers panel
-- **Restore** your file via Version History (File → Show Version History)
-
 ## Development
 
 ```bash
